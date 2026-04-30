@@ -8,6 +8,7 @@ export default function Simple() {
   };
   return (
     <div>
+        <h1>Simple For Single Field</h1>
       <form onSubmit={handleForm}>
         <input
           type="text"
